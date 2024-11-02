@@ -4,6 +4,17 @@
 
 This project demonstrates how to perform portfolio analysis using R, focusing on extracting stock price data from Yahoo Finance, cleaning and processing the data, calculating stock returns, and constructing an optimal portfolio. The analysis includes both individual loading and bulk loading of stock data, creating a portfolio of ten stocks, calculating portfolio returns, and plotting the efficient frontier to visualize different risk-return profiles.
 
+## Objective
+
+The objective of this project is to provide a comprehensive guide for performing portfolio analysis using R, focusing on the following key aspects:
+- **Data Extraction and Processing**: Demonstrate how to extract and prepare stock price data for analysis.
+- **Return and Risk Calculation**: Showcase methods for calculating stock returns and key risk metrics.
+- **Portfolio Construction**: Construct and analyze both equally weighted and optimized portfolios to understand risk-return trade-offs.
+- **Efficient Frontier Visualization**: Plot the efficient frontier to help investors visualize potential portfolios and make strategic investment decisions.
+- **Optimization Techniques**: Identify and calculate optimal portfolio weights for the Tangency Portfolio (maximizing risk-adjusted return) and the Minimum Variance Portfolio (minimizing overall risk).
+- **Empower Investors**: Equip financial analysts and investors with the tools to make data-driven portfolio management decisions.
+
+
 ## Libraries Used
 
 The following R packages are used in this project:
